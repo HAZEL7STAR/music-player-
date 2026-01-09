@@ -23,3 +23,8 @@ body{
     border-width: 0.5;
     box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.7);
 } 
+#image {
+    border: solid;
+    border-width: 0.5;
+    box-shadow: 0px 0px 30px  rgba(255, 254, 254, 0.7);
+} 
