@@ -1,5 +1,5 @@
 body{
-    background: linear-gradient(to bottom , rgb(185, 31, 185) 10%
+    background: linear-gradient(to bottom , rgb(185, 31, 185) 0%
     ,rgb(37, 37, 45) 50%, 
     rgb(192, 36, 36) 100%);
 }  
@@ -21,7 +21,7 @@ body{
     border:solid;
     background:linear-gradient(to top, rgb(141, 3, 3) 10%,rgb(0, 0, 0) 40%, rgb(126, 0, 133) 100%);
     border-width: 0.5;
-    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.7);
+    box-shadow:4px 5px 10px rgba(0, 0, 0, 0.7);
 } 
 #image {
     border: solid;
