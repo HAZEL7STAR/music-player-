@@ -1,9 +1,14 @@
 body{
     background: linear-gradient(to bottom , rgb(185, 31, 185) 10%
-    ,rgb(12, 12, 181) 50%, 
+    ,rgb(37, 37, 45) 50%, 
     rgb(192, 36, 36) 100%);
 }  
-#index{
+#header{
+    display: inline;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
     
 }
 .box{
