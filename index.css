@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to bottom , rgb(185, 31, 185) 10%
+    ,rgb(12, 12, 181) 50%, 
+    rgb(192, 36, 36) 100%);
+}  
+#index{
+    
+}
+.box{
+    display: flex;
+    width: 300px;
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:solid;
+    background:linear-gradient(to top, rgb(141, 3, 3) 10%,rgb(0, 0, 0) 40%, rgb(126, 0, 133) 100%);
+    border-width: 0.5;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.7);
+} 
